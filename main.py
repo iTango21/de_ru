@@ -152,29 +152,6 @@ async def get_page_data(session, word_, str_num):
         url_ = link_
         print(f'url: {url_}')
 
-
-
-
-        # my_ = []
-        # for pere_ in pere:
-        #     try:
-        #         trs_ = soup.find('div', {'data-dz-name': f'{pere_}'}).find('tbody').find_all('tr', {'data-dz-ui': 'dictentry'})
-        #
-        #         for eles_ in trs_:
-        #             my_.append(
-        #                 {
-        #                     f"{pere_}_ru": eles_.find('td', {'lang': 'ru'}).text.strip(),
-        #                     f"{pere_}_de": eles_.find('td', {'lang': 'de'}).text.strip()
-        #                 }
-        #             )
-        #     except:
-        #         my_.append(
-        #             {
-        #                 f"{pere_}_ru": "NONE",
-        #                 f"{pere_}_de": "NONE"
-        #             }
-        #         )
-
         """
         data-dz-name
 
@@ -194,9 +171,16 @@ async def get_page_data(session, word_, str_num):
                 'Beispiele': 'example'
                 }
 
+        word__ = word_.replace('%20', ' ')
 
-        my_ = []
-        #for pere_ in pere:
+        ele_info.append(
+            {
+                "url": url_,
+                "word": word__
+            }
+        )
+
+
         for k, v in pere.items():
             try:
                 trs_ = soup.find('div', {'data-dz-name': f'{v}'}).find('tbody').find_all('tr', {'data-dz-ui': 'dictentry'})
@@ -220,26 +204,6 @@ async def get_page_data(session, word_, str_num):
                         f"{k}": "NONE"
                     }
                 )
-
-            # print(my_)
-
-        # breakpoint()
-
-
-        # word__ = word_.replace('%20', ' ')
-        #
-        # ele_info.append(
-        #     {
-        #         "url": url_,
-        #         "word": word__,
-        #         "Substantive": my_[0],
-        #         "Adjektive / Adverbien": my_[1],
-        #         "Verben": my_[2],
-        #         "Präpositionen / Pronomen": my_[3],
-        #         "Phrasen": my_[4],
-        #         "Beispiele": my_[5],
-        #      }
-        # )
 
 
 async def gather_data():
