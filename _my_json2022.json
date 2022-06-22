@@ -1,0 +1,202 @@
+[
+    {
+        "Substantive": [
+            {
+                "ru": "лю́ди  Pl.  - Sg.: челове́к",
+                "de": "die Leute Pl., kein Sg."
+            },
+            {
+                "ru": "пипл  Pl. [sl.]   - нескл.   - от англ. people",
+                "de": "die Leute  Pl.: die nosg"
+            },
+            {
+                "ru": "пи́плы  Pl. [sl.]   - от англ. people",
+                "de": "die Leute  Pl.: die nosg"
+            },
+            {
+                "ru": "ле́вая рука́  f.",
+                "de": "die Linke"
+            },
+            {
+                "ru": "ле́вый m. | ле́вая f.   - о полити́ческих де́ятелях [POL.]",
+                "de": "der Linke | die Linke  Pl.: die Linken"
+            },
+            {
+                "ru": "ле́вая группиро́вка  f. [POL.]",
+                "de": "die Linke"
+            },
+            {
+                "ru": "ле́вая па́ртия  f. [POL.]",
+                "de": "die Linke"
+            },
+            {
+                "ru": "ле́вая фра́кция  f. [POL.]",
+                "de": "die Linke"
+            },
+            {
+                "ru": "ле́вое крыло́  n.   - па́ртии [POL.]",
+                "de": "die Linke"
+            },
+            {
+                "ru": "Ле́вая (па́ртия)  f.   - полити́ческая па́ртия в ФРГ [POL.]",
+                "de": "Die Linke   - politische Partei in Deutschland"
+            },
+            {
+                "ru": "ле́вые си́лы  Pl. [sl.] [POL.]",
+                "de": "die Linke"
+            },
+            {
+                "ru": "беднота́  f.  kein Plural",
+                "de": "arme Leute  Pl.: die nosg"
+            },
+            {
+                "ru": "бедняки́  - Sg.: бедня́к",
+                "de": "arme Leute  Pl.: die nosg"
+            },
+            {
+                "ru": "простонаро́дье  n.",
+                "de": "geringe Leute  Pl.: die nosg"
+            }
+        ]
+    },
+    {
+        "Adjektive / Adverbien": [
+            {
+                "ru": "не́которые  Adj.",
+                "de": "manche Leute"
+            },
+            {
+                "ru": "мно́гие  Adj.",
+                "de": "viele Leute"
+            }
+        ]
+    },
+    {
+        "Verben": [
+            {
+                "ru": "разглаша́тьuv (что-л.) разгласи́тьv (что-л.)",
+                "de": "(etw.Akk.) unter die Leute bringen  | brachte, gebracht |"
+            },
+            {
+                "ru": "обла́мыватьсяuv [sl.]облома́тьсяv [sl.]обломи́тьсяv [sl.]",
+                "de": "die Arschkarte haben [derb]"
+            }
+        ]
+    },
+    {
+        "Präpositionen / Pronomen": [
+            {
+                "ru": "тот | та | то  Pron.  указат.",
+                "de": "der | die | das  Demonstrativpron."
+            },
+            {
+                "ru": "э́тот | э́та | э́то  Pron.  указат.",
+                "de": "der | die | das  Demonstrativpron."
+            },
+            {
+                "ru": "ко́е-кто́  Pron.   - неопр.",
+                "de": "manche Leute"
+            },
+            {
+                "ru": "она́  Pron.   - личн.",
+                "de": "die   - als Personalpronomen"
+            },
+            {
+                "ru": "кой-кто́  Pron. [ugs.]   - неопр.",
+                "de": "manche Leute"
+            },
+            {
+                "ru": "Ребя́та!  Pl.   - обраще́ние к друзья́м, знако́мым [ugs.][hum.]",
+                "de": "Leute!   - Anrede zu Freunden, guten Bekannten"
+            },
+            {
+                "ru": "чей  Pron.  относит.",
+                "de": "deren  Relativpron."
+            },
+            {
+                "ru": "его́  Pron.   - притяжат. мест. м.р. и ср.р. по отн. к ли́цам/предме́там м.р., ж.р. и ср.р.",
+                "de": "der seinige | die seinige | das seinige  Possessivpron.   veraltend"
+            },
+            {
+                "ru": "его́  Pron.   - притяжат. мест. м.р. и ср.р. по отн. к ли́цам/предме́там м.р., ж.р. и ср.р.",
+                "de": "der seinige | die seinige | das seinige   veraltend"
+            },
+            {
+                "ru": "ко́е-кто́  Pron.   - неопр.",
+                "de": "mancherlei Leute"
+            },
+            {
+                "ru": "кой-кто́  Pron. [ugs.]   - неопр.",
+                "de": "mancherlei Leute"
+            },
+            {
+                "ru": "в лице́ кого́-л./чего́-л.  Präp.",
+                "de": "vertreten durch den/die  +Akk. [Abk.: v.d.d.]"
+            }
+        ]
+    },
+    {
+        "Phrasen": [
+            {
+                "ru": "по бла́ту [sl.]",
+                "de": "durch die Hintertür"
+            },
+            {
+                "ru": "ма́ло наро́ду",
+                "de": "nicht viele Leute"
+            },
+            {
+                "ru": "говори́тьuv иносказа́тельно",
+                "de": "durch die Blume reden"
+            },
+            {
+                "ru": "говори́тьuv намёками",
+                "de": "durch die Blume reden"
+            },
+            {
+                "ru": "говори́тьuv иносказа́тельно",
+                "de": "durch die Blume sprechen"
+            },
+            {
+                "ru": "говори́тьuv намёками",
+                "de": "durch die Blume sprechen"
+            },
+            {
+                "ru": "о́коло ты́сячи",
+                "de": "an die tausend"
+            },
+            {
+                "ru": "Встреча́ют по одёжке.",
+                "de": "Kleider machen Leute."
+            },
+            {
+                "ru": "сде́латьсяv предме́том разгово́ров",
+                "de": "sichDat. dem Gerede der Leute aussetzen"
+            },
+            {
+                "ru": "сде́латьсяv предме́том спле́тен",
+                "de": "sichDat. dem Gerede der Leute aussetzen"
+            }
+        ]
+    },
+    {
+        "Beispiele": [
+            {
+                "ru": "Большинство́ сторо́нников э́того полити́ческого де́ятеля на после́дних вы́борах перешло́ на сто́рону ле́вых сил.",
+                "de": "Die meisten Anhänger dieses Politikers sind bei den letzten Wahlen nach links abgeschwenkt."
+            },
+            {
+                "ru": "Он зна́ет здесь мно́гих.",
+                "de": "Er kennt hier viele Leute."
+            },
+            {
+                "ru": "С э́тими людьми́ я не хочу́ име́ть де́ла.",
+                "de": "Mit diesen Leuten gebe ich mich nicht ab."
+            },
+            {
+                "ru": "У нас всё как у бога́тых.",
+                "de": "Bei uns ist es nicht wie bei armen Leuten."
+            }
+        ]
+    }
+]
