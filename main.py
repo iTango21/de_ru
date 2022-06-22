@@ -150,7 +150,7 @@ async def get_page_data(session, word_, str_num):
         # print(f'str_num: {str_num}')
 
         url_ = link_
-        print(f'url: {url_}')
+        print(f'{str_num} --> : {url_}')
 
         """
         data-dz-name
@@ -243,7 +243,7 @@ async def gather_data():
             task = asyncio.create_task(get_page_data(session, word_, str_num))
             tasks.append(task)
             str_num += 1
-            break
+            # break
 
 
         await asyncio.gather(*tasks)
